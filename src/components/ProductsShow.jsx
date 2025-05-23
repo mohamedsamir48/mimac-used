@@ -8,7 +8,7 @@ const ProductsShow = () => {
      
      
       <div className=" col-span-1 row-span-3  flex flex-col justify-between items-center bg-gray-00 ">
-        <img className=" h-[400px]" src='/mkna 1.jpeg' />
+        <img className=" h-[400px]" src='https://mohamedsamir48.github.io/mimac-used/mkna 1.jpeg' />
         <div className="w-full flex flex-col p-2 justify-center items-center">
 
         <p className="font-bold md:text-2xl text-xl my-2">ماكينة صنع بيتي فور ميماك </p>
@@ -23,7 +23,7 @@ const ProductsShow = () => {
 
 
        <div className=" col-span-1 row-span-3  flex flex-col justify-between items-center bg-gray-00 ">
-        <img className=" h-[400px]" src='/mkna 2.jpeg' />
+        <img className=" h-[400px]" src='https://mohamedsamir48.github.io/mimac-used/mkna 2.jpeg' />
         <div className="w-full flex flex-col p-2 justify-center items-center">
 
         <p className="font-bold md:text-2xl text-xl my-2">ماكينة صنع بيتي فور ميماك </p>

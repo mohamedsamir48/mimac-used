@@ -18,23 +18,23 @@ const Product = () => {
        
         <div className="w-full flex justify-center items-center">
 
-            <a target="_blank" href={`/mkna ${params.id}.jpeg`} end>
+            <a target="_blank" href={`https://mohamedsamir48.github.io/mimac-used/mkna ${params.id}.jpeg`} end>
 
-            <img className="max-w-[300px]   ml-2" src={`/mkna ${params.id}.jpeg`} />
+            <img className="max-w-[300px]   ml-2" src={`https://mohamedsamir48.github.io/mimac-used/mkna ${params.id}.jpeg`} />
             </a>
         </div>
          <div className="flex mt-[20px] ">
-         <a target="_blank" href={`/mkna ${params.id}a.jpeg`} end>
+         <a target="_blank" href={`https://mohamedsamir48.github.io/mimac-used/mkna ${params.id}a.jpeg`} end>
 
-            <img className="h-[100px]  ml-2" src={`/mkna ${params.id}a.jpeg`} />
+            <img className="h-[100px]  ml-2" src={`https://mohamedsamir48.github.io/mimac-used/mkna ${params.id}a.jpeg`} />
             </a>
-         <a target="_blank" href={`/mkna ${params.id}b.jpeg`} end>
+         <a target="_blank" href={`https://mohamedsamir48.github.io/mimac-used/mkna ${params.id}b.jpeg`} end>
 
-            <img className="h-[100px] ml-2" src={`/mkna ${params.id}b.jpeg`} />
+            <img className="h-[100px] ml-2" src={`https://mohamedsamir48.github.io/mimac-used/mkna ${params.id}b.jpeg`} />
             </a>
-         <a target="_blank" href={`/mkna ${params.id}c.jpeg`} end>
+         <a target="_blank" href={`https://mohamedsamir48.github.io/mimac-used/mkna ${params.id}c.jpeg`} end>
 
-            <img className="h-[100px] ml-2" src={`/mkna ${params.id}c.jpeg`} />
+            <img className="h-[100px] ml-2" src={`https://mohamedsamir48.github.io/mimac-used/mkna ${params.id}c.jpeg`} />
             </a>
             
         </div>
