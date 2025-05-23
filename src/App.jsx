@@ -18,7 +18,7 @@ function App() {
     <Routes>
 
      <Route  element={<MainLayout />}>
-    <Route path="/" element={<Home />} />
+    <Route path="/mimac-used" element={<Home />} />
     <Route path="/product/:id" element={<Product />} />
    
    
