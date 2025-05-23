@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.strokeme {
+ -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+}
